@@ -1,7 +1,7 @@
 # 
-# Hi, I'm Valerie! 👋
+# Hi, I'm Val
 
-### Cybersecurity & Information Assurance Student | IT Enthusiast
+### Cybersecurity & Information Assurance Student |
 
 I'm currently pursuing a Bachelor of Science in Cybersecurity and Information Assurance at Western Governors University.
 
